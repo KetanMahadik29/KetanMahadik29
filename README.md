@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./Neon Tech Profile Banner.png" width="100%" alt="Profile Banner">
+</p>
 
 <!--
 **KetanMahadik29/KetanMahadik29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
